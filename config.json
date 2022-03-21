@@ -1,0 +1,20 @@
+{
+  "hed": "Headline",
+  "dek": "This is a short description",
+  "byline": "Firstname Lastname",
+  "source": "Source: This is the source",
+  "deployment": "https://datagraphics.michigandaily.com",
+  "fetch": [
+    {
+      "id": "",
+      "output": "",
+      "auth": "./auth.json"
+    },
+    {
+      "id": "",
+      "sheetId": "0",
+      "output": "",
+      "auth": "./auth.json"
+    }
+  ]
+}
